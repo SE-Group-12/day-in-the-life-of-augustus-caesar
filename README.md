@@ -1,5 +1,5 @@
 # Day in the Life of Augustus Caesar
-#### his project is dedicated to creating an interactive conversational experience with a historical figure.
+#### This project is dedicated to creating an interactive conversational experience with a historical figure.
 #### For this project, Augustus Caesar has been selected as the historical figure.
 
 #### The repository contains a complete collection of project documentation and code files.
